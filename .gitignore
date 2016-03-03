@@ -1,7 +1,7 @@
 node_modules/
 *.log
 public/libs/
-server/config/auth.js
+
 
 build/
 dist/
