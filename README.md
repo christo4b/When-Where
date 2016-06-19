@@ -1,52 +1,27 @@
-# Project Name
+# When & Where
 
-> Pithy project description
+Want to meet up with a group but can't decide on a common location or venue? With When & Where, you can invite your friends to vote on locations and meetup times.
 
-## Team
+Deployed at [When & Where](whenwhere2.herokuapp.com)
 
-  - __Product Owner__: teamMember
-  - __Scrum Master__: teamMember
-  - __Development Team Members__: teamMember, teamMember
+## Stack
 
-## Table of Contents
-
-1. [Usage](#Usage)
-1. [Requirements](#requirements)
-1. [Development](#development)
-    1. [Installing Dependencies](#installing-dependencies)
-    1. [Tasks](#tasks)
-1. [Team](#team)
-1. [Contributing](#contributing)
+- Node/Express Server
+- MongoDB with Mongoose ORM
+- Angular with Angular UI
 
 ## Usage
 
-> Some usage instructions
+Login with your Facebook account. Create events and choose times and date options. Your invitees will vote on the locations and dates for the event.
 
-## Requirements
-
-- Node 0.10.x
-- Redis 2.6.x
-- Postgresql 9.1.x
-- etc
-- etc
+![](https://media.giphy.com/media/z3P7csM8qMff2/giphy.gif)
 
 ## Development
 
 ### Installing Dependencies
 
-From within the root directory:
-
-```sh
-sudo npm install -g bower
-npm install
-bower install
-```
-
-### Roadmap
-
-View the project roadmap [here](LINK_TO_PROJECT_ISSUES)
+From within the root directory: `npm install`
 
 
-## Contributing
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
+
